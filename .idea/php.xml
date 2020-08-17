@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/Twig/test" />
+      <path value="$PROJECT_DIR$/vendor/Twig/lib" />
+      <path value="$PROJECT_DIR$/vendor/.git/objects" />
+      <path value="$PROJECT_DIR$/vendor/.git/info" />
+      <path value="$PROJECT_DIR$/vendor/Twig/ext" />
+      <path value="$PROJECT_DIR$/vendor/Twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/.git/hooks" />
+      <path value="$PROJECT_DIR$/vendor/Twig/doc" />
+      <path value="$PROJECT_DIR$/vendor/.git/refs" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+</project>
